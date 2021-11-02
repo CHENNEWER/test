@@ -1,0 +1,19 @@
+/**app.wxss**/
+@import "./styles/iconfont.wxss";
+/** 全局样式的设定**/
+page,vieiw,swiper,swiper-item,image,navigator{
+    padding: 1rpx;
+    margin: 1rpx;
+    box-sizing: border-box;
+}
+page{
+    /**same color**/
+    --themeColor:#eb4450;
+    
+    /****/
+    font-size: 28rpx;
+
+}
+image{
+    width: 100%;
+}
