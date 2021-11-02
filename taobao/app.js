@@ -14,6 +14,7 @@ App({
   onShow: function (options) {
     
     console.log("xiugaile,")
+    console.log("zaicigaibian")
 
   },
 
